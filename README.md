@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theofelices
 - 👀 I’m interested in database, web development, data science, web frameworks and pizza
-- 🌱 I’m currently learning python, django, DRF
+- 🌱 I’m currently learning python, django, streamlit, DRF
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
